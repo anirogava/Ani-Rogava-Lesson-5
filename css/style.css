@@ -1,0 +1,67 @@
+/*Section1*/
+.container{
+	width: 1120px;
+	margin: 0 auto;
+}
+.section-title1{
+	margin: 82px 1px 0 0;
+	font-size: 14px;
+	color: #5863F8;
+	font-family: 'Poppins';
+	 font-weight: bold;
+}
+.section-title2{
+	margin-bottom: 50px;
+	font-size: 42px;
+	font-weight: 900;
+	font-family: 'Poppins';
+	width: 498px;
+	font-weight: bold;
+}
+.left-block1{
+	float: left;
+	margin-right: 16px;
+	margin-bottom: 16px;
+	width: 536px;
+	background-color: #F8F8F8;
+}
+.right-block1{
+	float: left;
+	width: 536px;
+	background-color: #F8F8F8;
+}
+.clear{
+	clear: both;
+}
+.descriprion{
+	float: left;
+	width: 240px;
+}
+.image{
+	float: left;
+	height: 190px;
+	margin-right: 16px;
+}
+.title1{
+	font-size: 14px;
+	font-family: 'Poppins';
+	font-weight: bold;
+	color: #5863F8;
+	margin-top: 37px; 
+
+}
+.title2{
+	font-size: 18px;
+	font-weight: 300;
+	font-family: 'Poppins';
+	margin-bottom: 10px;
+}
+.paragraph{
+	font-family: 'Poppins';
+	font-size: 14px;
+	font-style: normal;
+	color: #B1B1B1;
+	height: 62px;
+	line-height: 15px;
+
+}
