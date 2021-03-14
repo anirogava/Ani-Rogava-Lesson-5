@@ -93,23 +93,21 @@
 	font-family: 'Poppins';
 	font-weight: bold;
 	color: #5863F8;
-	margin-bottom: 5px;
+	padding: 23px 125px 5px 125px; 
 }
 .title4{
 	font-size: 18px;
 	font-family: 'Poppins';
 	font-weight: 600;
-	margin-bottom: 10px;
-	
+	padding: 0 60px 10px 60px;
 }
 .paragraph1{
-	width: 260px;
 	font-family: 'Poppins';
-	font-weight: 300;
+	font-weight: 100;
 	color: #B1B1B1;
-	line-height: 15px;
-
-
+    padding: 0 46px 23px 46px;
+	font-size: 14px;
+    text-align: center;
 }
 
 .box4::after{
@@ -125,6 +123,4 @@
 	display: block;
 	margin-bottom: 16px;
 }
-.decription1{
-	margin: 23px 55px 23px 55px;
-}
+

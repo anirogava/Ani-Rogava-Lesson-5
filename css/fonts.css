@@ -1,23 +1,11 @@
 @font-face {
     font-family: 'Poppins';
-    src: url('../fonts/bold/Poppins-Bold.eot');
-    src: url('../fonts/bold/Poppins-Bold.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/bold/Poppins-Bold.woff2') format('woff2'),
-        url('../fonts/bold/Poppins-Bold.woff') format('woff'),
-        url('../fonts/bold/Poppins-Bold.ttf') format('truetype'),
-        url('../fonts/bold/Poppins-Bold.svg#Poppins-Bold') format('svg');
-    font-weight: bold;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: 'Poppins';
-    src: url('../fonts/lightPoppins-Light.eot');
-    src: url('../fonts/lightPoppins-Light.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/lightPoppins-Light.woff2') format('woff2'),
-        url('../fonts/lightPoppins-Light.woff') format('woff'),
-        url('../fonts/lightPoppins-Light.ttf') format('truetype'),
-        url('../fonts/lightPoppins-Light.svg#Poppins-Light') format('svg');
+    src: url('../fonts/ligh/tPoppins-Light.eot');
+    src: url('../fonts/ligh/tPoppins-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/light/Poppins-Light.woff2') format('woff2'),
+        url('../fonts/light/Poppins-Light.woff') format('woff'),
+        url('../fonts/light/Poppins-Light.ttf') format('truetype'),
+        url('../fonts/light/Poppins-Light.svg#Poppins-Light') format('svg');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
