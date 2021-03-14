@@ -1,6 +1,6 @@
 /*Section1*/
 .container{
-	width: 1120px;
+	width: 1200px;
 	margin: 0 auto;
 }
 .section-title1{
@@ -8,7 +8,7 @@
 	font-size: 14px;
 	color: #5863F8;
 	font-family: 'Poppins';
-	 font-weight: bold;
+	font-weight: bold;
 }
 .section-title2{
 	margin-bottom: 50px;
@@ -52,16 +52,77 @@
 }
 .title2{
 	font-size: 18px;
-	font-weight: 300;
+	font-weight: 600;
 	font-family: 'Poppins';
 	margin-bottom: 10px;
 }
 .paragraph{
 	font-family: 'Poppins';
 	font-size: 14px;
-	font-style: normal;
+	font-weight: 300;
 	color: #B1B1B1;
 	height: 62px;
 	line-height: 15px;
 
+}
+/*Section2*/
+.block1{
+	float: left;
+	background-color: #F8F8F8;
+	width: 352px;
+
+	
+}
+.block2{
+	float: left;
+	background-color: #F8F8F8;
+	width: 352px;
+
+}
+.block1::after{
+	margin-right: 16px;
+	content: '';
+	clear: both;
+	display: block;
+	
+}
+.block2::after{
+	content: '';
+	clear: both;
+	display: block;
+	
+}
+.image2{
+	height: 212px;
+	width: 352px;
+}
+.left-block2{
+	margin-right: 16px;
+}
+.middle-block{
+	margin-right: 16px;
+}
+.title3{
+	font-size: 14px;
+	font-family: 'Poppins';
+	font-weight: bold;
+	color: #5863F8;
+	margin-top: 23px;
+}
+.title4{
+	font-size: 18px;
+	font-family: 'Poppins';
+	font-weight: 600;
+	margin-top: 5px;
+}
+.paragraph1{
+	width: 260px;
+	font-family: 'Poppins';
+	font-weight: 300;
+	color: #B1B1B1;
+
+}
+
+.box4{
+	margin-top: 16px;
 }
